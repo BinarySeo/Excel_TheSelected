@@ -1,0 +1,18 @@
+# 📊 E-Commerce Sales Performance & Dashboard Analysis
+
+A clean, executive-ready sales dashboard and data analysis project built using Excel. This repository contains raw sales data, a standardized dataset, pivot analyses, and an interactive dashboard summarizing sales performance across **2019–2020**.
+
+---
+
+## 📌 Project Overview
+
+This project analyzes **10,000+ transaction records** to evaluate key e-commerce sales metrics, channel profitability, customer retention, and product category trends.
+
+### Key Objectives:
+- **Data Cleaning & Standardization**: Converted Korean transactional data into English and added USD ($) price conversions alongside KRW (₩).
+- **Pivot Summaries**: Aggregated key performance metrics including sales trends, platform share, return rates, and cancel rates.
+- **Interactive Dashboard**: Designed a visual presentation layer to monitor sales KPIs at a glance.
+
+---
+
+## 📂 Repository Structure
